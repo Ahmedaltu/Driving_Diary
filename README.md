@@ -9,8 +9,8 @@
  • Odometer value at the end of the trip 
  • The amount of fuel you bought during the trip (does not necessarily apply to every trip) The program must have (at least) following commands:   
  1. Initialize (clear all trip information) 
- 2. 2. Save trip data to file 
- 3. 3. Read trip data from file 
+ 2. Save trip data to file 
+ 3. Read trip data from file 
  4. Add a new trip 
  5. Remove a trip Print a report. 
  Program asks user to enter upper and lower limit of driven distance and prints trips where the driven distance is in the specified range 
